@@ -1,0 +1,6 @@
+{
+  "name": "Unisex Salon By Nidhi - Jaipur",
+  "description": "Professional hair styling, beauty treatments, and grooming services in Jaipur, Rajasthan. Book an appointment today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
